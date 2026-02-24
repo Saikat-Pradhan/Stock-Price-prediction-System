@@ -5,4 +5,4 @@ seaborn
 streamlit
 scikit-learn
 yfinance
-altair
+altair==4.2.2
