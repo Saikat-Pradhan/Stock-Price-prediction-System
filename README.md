@@ -40,6 +40,8 @@ The system fetches real-time historical data and generates intelligent predictio
 - 📦 Amazon
 - 🚗 Tesla
 
+---
+
 ## 🎯 Application Features
 
 - Interactive company selection
@@ -50,6 +52,8 @@ The system fetches real-time historical data and generates intelligent predictio
 - LSTM-based price prediction
 - Actual vs Predicted comparison graph
 - Real-time data fetching using Yahoo Finance
+
+---
 
 ## 🧠 Technologies Used
 
@@ -63,6 +67,8 @@ The system fetches real-time historical data and generates intelligent predictio
 - Scikit-learn ⚙️
 - yFinance 📈
 - Pickle 📦
+
+---
 
 ## 📊 Dataset
 
@@ -78,6 +84,8 @@ The dataset includes:
 - Volume
 
 This historical time-series data allows the LSTM model to learn market trends and patterns.
+
+---
 
 ## 🏗️ Model Training
 
@@ -95,6 +103,8 @@ Model development is performed in: ``` 📓 Stock_Price_Prediction_Using_LSTM.ip
 - Saved Model
 - model.pkl → Trained LSTM Prediction Model
 
+---
+
 ## 🧠 How the App Works
 
 - User selects a company.
@@ -104,6 +114,8 @@ Model development is performed in: ``` 📓 Stock_Price_Prediction_Using_LSTM.ip
 - LSTM model predicts future closing prices.
 - Predicted prices are rescaled.
 - Actual vs Predicted stock prices are displayed visually.
+
+---
 
 ## 📁 Project Structure
 ```
@@ -115,6 +127,7 @@ Stock-Price-Prediction-System
 ├── Stock_Price_Prediction_Using_LSTM.ipynb
 └── README.md
 ```
+---
 
 ## ⚙️ Setup Guide (Run Locally)
 ### 1️⃣ Clone the Repository
@@ -138,6 +151,8 @@ streamlit run app.py
 http://localhost:8501
 ```
 
+---
+
 ## 📉 Visual Outputs
 
 The application provides:
@@ -147,15 +162,21 @@ The application provides:
 - Deep Learning Prediction Graph
 - Actual vs Predicted Price Comparison
 
+---
+
 ## 🌍 Deployment
 
 ✅ Successfully deployed using Streamlit Cloud
+
+---
 
 ## ⭐ Support
 
 If you like this project, please give it a star ⭐ on GitHub.
 
 It motivates me to build more Machine Learning & AI projects 🚀
+
+---
 
 ## 👨‍💻 Author
 
