@@ -1,5 +1,5 @@
 # 📈 Stock Price Prediction System Web App
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
 ![LSTM](https://img.shields.io/badge/Model-LSTM-green)
