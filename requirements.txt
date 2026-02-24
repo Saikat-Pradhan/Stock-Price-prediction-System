@@ -2,7 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
-streamlit
+streamlit>=1.32.0
 scikit-learn
 yfinance
 altair==4.2.2
