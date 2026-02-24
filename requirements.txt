@@ -7,4 +7,4 @@ scikit-learn
 yfinance
 altair==4.2.2
 tensorflow==2.19.1
-keras==2.19.0
+keras>=3.5.0
